@@ -1,3 +1,3 @@
 # Python_3_PyQt5_DEMO
-Простейший пример оконной программы Еленич Владислав ИС-302
-![srcreenshot](screenshot.png)
+Лабораторная работа 2
+![srcreenshot](Screenshot.png)
